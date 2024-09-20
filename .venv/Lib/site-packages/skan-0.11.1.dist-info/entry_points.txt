@@ -1,0 +1,2 @@
+[napari.manifest]
+skan = skan:napari.yaml
